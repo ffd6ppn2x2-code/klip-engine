@@ -1,0 +1,6 @@
+model: anthropic/claude-sonnet-5-5
+architect: true
+editor-model: deepseek/deepseek-flash
+cache-prompts: true
+auto-commits: true
+show-model-warnings: false

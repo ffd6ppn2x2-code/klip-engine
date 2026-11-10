@@ -1,23 +1,9 @@
-# Generated media and working directories
+venv/
+backgrounds/
 temp/
 exports/
-backgrounds/
-
-# Secrets and environment files
 .env
-.env.*
-!.env.example
-*.key
-*.pem
-secrets.json
-
-# Python artifacts
+.aider*
 __pycache__/
-*.py[cod]
-*.egg-info/
-.venv/
-venv/
-
-# Logs and OS cruft
-*.log
-.DS_Store
+*.mp4
+*.ass
